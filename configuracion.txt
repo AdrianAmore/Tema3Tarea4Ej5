@@ -1,1 +1,1 @@
-/home/adampe/datos
+/home/adri/datos
