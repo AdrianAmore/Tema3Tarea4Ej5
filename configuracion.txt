@@ -1,2 +1,0 @@
-/home/usuario1/datos
-/home/jorge/datos
